@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Huloud
+- 👀 I’m interested in OpenGL programming.
+- 🌱 I’m currently learning OpenGL and maths.
